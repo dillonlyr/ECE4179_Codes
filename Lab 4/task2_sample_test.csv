@@ -1,0 +1,5 @@
+filename,label,path
+1.png,happy,data/task2_sample_test/1.jpg
+2.png,surprise,data/task2_sample_test/2.jpg
+3.png,neutral,data/task2_sample_test/3.jpg
+4.png,sad,data/task2_sample_test/4.jpg
